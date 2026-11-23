@@ -14,7 +14,7 @@ A single-line, fully deterministic out-of-office auto-reply in the voice of an A
 node main.ts
 ```
 
-This creates `/output` if missing and writes the reply to `/output/entry.txt` (UTF-8, one line, no trailing newline, 139 characters). Running it again produces byte-identical output.
+This creates `/output` if missing and writes the reply to `/output/entry.txt` (UTF-8, one line, no trailing newline, 119 characters). Running it again produces byte-identical output.
 
 ## License
 
